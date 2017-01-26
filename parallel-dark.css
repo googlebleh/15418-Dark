@@ -1,5 +1,9 @@
 @-moz-document url-prefix('https://www.cs.cmu.edu/~410/') {
 
+title {
+    color: white;
+}
+
 h1,
 h2,
 h3,
