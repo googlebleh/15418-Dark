@@ -16,17 +16,5 @@ body {
     background-color: black;
     color: grey;
 }
-a:link {
-    color: #54AFBE; /* a muted cyan */
-}
-a:visited {
-    color: #7647A2; /* a muted cyan */
-}
-table {
-    background-color: black;
-}
-tr {
-    /* once in a while, de0u manually adds a color for one of these */
-    background-color: black;
-}
+
 }
