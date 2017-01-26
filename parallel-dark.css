@@ -17,4 +17,9 @@ body {
     color: grey;
 }
 
+textarea { /* for comment boxes on slides */
+    background-color: #151515; /* very dark gray */
+    color: white;
+}
+
 }
