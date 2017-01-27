@@ -6,9 +6,10 @@ h3,
 h4,
 h5,
 h6,
+.basic_info,
 .common_title,
 .home_title,
-.basic_info,
+.lecture_title,
 .overview_main_item {
     color: white;
 }
