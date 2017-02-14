@@ -34,7 +34,7 @@ body {
 
 
 textarea { /* for comment boxes on slides */
-    background-color: #606060; /* very dark gray */
+    background-color: black;
     color: white;
 }
 
