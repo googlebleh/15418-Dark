@@ -13,6 +13,15 @@ h6,
     color: white;
 }
 
+/***** code blocks *****/
+.article_container .prettyprint { background-color: black; }
+.article_container pre span.com { color: green; }
+.article_container pre span.kwd { color: orchid; }
+.article_container pre span.pln { color: gray; }
+.article_container pre span.pun { color: goldenrod; }
+.article_container pre span.lit { color: orange; }
+.article_container pre span.typ { color: cyan; }
+
 .lecture_title a {
     color: #c02424; /* slightly lighter than CMU red*/
 }
@@ -22,8 +31,9 @@ body {
     color: grey;
 }
 
+
 textarea { /* for comment boxes on slides */
-    background-color: #151515; /* very dark gray */
+    background-color: #606060; /* very dark gray */
     color: white;
 }
 
