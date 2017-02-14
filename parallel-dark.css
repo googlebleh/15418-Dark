@@ -9,10 +9,14 @@ h6,
 .basic_info,
 .common_title,
 .home_title,
-.lecture_title,
 .overview_main_item {
     color: white;
 }
+
+.lecture_title a {
+    color: #c02424; /* slightly lighter than CMU red*/
+}
+
 body {
     background-color: black;
     color: grey;
