@@ -10,7 +10,7 @@ h6,
 .common_title,
 .feed_title,
 .home_title,
-.lecture_title,
+.lecture_title a,
 .overview_main_item {
     color: white;
 }
@@ -23,10 +23,6 @@ h6,
 .article_container pre span.pun { color: goldenrod; }
 .article_container pre span.lit { color: orange; }
 .article_container pre span.typ { color: cyan; }
-
-.lecture_title a {
-    color: #c02424; /* slightly lighter than CMU red*/
-}
 
 body {
     background-color: black;
